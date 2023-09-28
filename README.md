@@ -7,8 +7,7 @@ This QMRA code for photorepair was developed by Daniel Ma with the advising of D
 Feb 2020 - Mar 2023
 
 # Title of Manuscript: 
-Fluence-based QMRA model for bacterial photorepair and regrowth in drinking water after decentralized UV disinfection
-DOI: https://doi.org/10.1016/j.watres.2023.119612
+Fluence-based QMRA model for bacterial photorepair and regrowth in drinking water after decentralized UV disinfection; DOI: https://doi.org/10.1016/j.watres.2023.119612
 
 # What is QMRA?
 Check out the quantitative microbial risk assessment wiki (http://qmrawiki.org/) for some more information.
